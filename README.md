@@ -1,4 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://keertijanm.github.io/rock-paper-scissorkeerti/).
+This is my beginner Mern project[Mern project]()
+Checkout here to this Rock-Paper-Scissor simple game[click please](https://keertijanm.github.io/rock-paper-scissorkeerti/).
+
 
